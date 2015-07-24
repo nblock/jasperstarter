@@ -1,0 +1,3 @@
+bin/jasperstarter usr/bin
+jdbc usr/share/jasperstarter
+lib usr/share/jasperstarter

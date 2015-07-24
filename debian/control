@@ -1,0 +1,58 @@
+Source: jasperstarter
+Section: java
+Priority: extra
+Maintainer: Florian Preinstorfer <nblock@archlinux.us>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Homepage: http://jasperstarter.sourceforge.net/
+Vcs-Browser: https://github.com/nblock/jasperstarter
+Vcs-Git: git://github.com/nblock/jasperstarter.git
+
+Package: jasperstarter
+Architecture: all
+Depends: ${misc:Depends},
+ default-jre-headless,
+Recommends: default-jre
+Description: Running JasperReports from command line.
+ JasperStarter is an opensource command line launcher and batch compiler for
+ JasperReports. It provides the following features:
+ .
+  * Run any JasperReport that needs a jdbc, csv, xml, json or empty datasource
+  * Use with any database for which a jdbc driver is available
+  * Run reports with subreports
+  * Execute reports that need runtime parameters.
+  * Optionally prompt for report parameters
+  * Print directly to system default or given printer
+  * Optionally show printer dialog to choose printer
+  * Optionally show printpreview
+  * Export to various file formats.
+  * Export multiple formats in one commanding call
+  * Compile, print and export in one commanding call
+  * View, print or export previously filled reports (use jrprint file as input)
+  * Can compile a whole directory of .jrxml files.
+  * Integrate in non Java applications (for example PHP, Python)
+
+Package: jasperstarter-doc
+Architecture: all
+Section: doc
+Depends: ${misc:Depends}
+Description: Running JasperReports from command line (documentation).
+ JasperStarter is an opensource command line launcher and batch compiler for
+ JasperReports. It provides the following features:
+ .
+  * Run any JasperReport that needs a jdbc, csv, xml, json or empty datasource
+  * Use with any database for which a jdbc driver is available
+  * Run reports with subreports
+  * Execute reports that need runtime parameters.
+  * Optionally prompt for report parameters
+  * Print directly to system default or given printer
+  * Optionally show printer dialog to choose printer
+  * Optionally show printpreview
+  * Export to various file formats.
+  * Export multiple formats in one commanding call
+  * Compile, print and export in one commanding call
+  * View, print or export previously filled reports (use jrprint file as input)
+  * Can compile a whole directory of .jrxml files.
+  * Integrate in non Java applications (for example PHP, Python)
+ .
+ This package contains the documentation and example files.
