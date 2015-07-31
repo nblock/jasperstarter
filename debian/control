@@ -11,8 +11,8 @@ Vcs-Git: git://github.com/nblock/jasperstarter.git
 Package: jasperstarter
 Architecture: all
 Depends: ${misc:Depends},
- default-jre-headless,
-Recommends: default-jre
+ openjdk-7-jre-headless,
+Recommends: openjdk-7-jre
 Description: Running JasperReports from command line.
  JasperStarter is an opensource command line launcher and batch compiler for
  JasperReports. It provides the following features:
