@@ -2,8 +2,8 @@ Source: jasperstarter
 Section: java
 Priority: extra
 Maintainer: Florian Preinstorfer <nblock@archlinux.us>
-Build-Depends: debhelper (>= 9),
-Standards-Version: 3.9.6
+Build-Depends: debhelper (>= 10),
+Standards-Version: 3.9.8
 Homepage: http://jasperstarter.sourceforge.net/
 Vcs-Browser: https://github.com/nblock/jasperstarter
 Vcs-Git: git://github.com/nblock/jasperstarter.git
@@ -11,8 +11,8 @@ Vcs-Git: git://github.com/nblock/jasperstarter.git
 Package: jasperstarter
 Architecture: all
 Depends: ${misc:Depends},
- openjdk-7-jre-headless,
-Recommends: openjdk-7-jre
+ openjdk-8-jre-headless,
+Recommends: openjdk-8-jre
 Description: Running JasperReports from command line.
  JasperStarter is an opensource command line launcher and batch compiler for
  JasperReports. It provides the following features:

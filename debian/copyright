@@ -3,15 +3,15 @@ Upstream-Name: jasperstarter
 Source: http://jasperstarter.sourceforge.net
 
 Files: *
-Copyright: 2012-2015 Cenote GmbH
+Copyright: 2012-2017 Cenote GmbH
 License: Apache
 
 Files: debian/*
-Copyright: 2015 Florian Preinstorfer <nblock@archlinux.us>
+Copyright: 2015-2017 Florian Preinstorfer <nblock@archlinux.us>
 License: Apache
 
 License: Apache
- Copyright 2012-2015 Cenote GmbH
+ Copyright 2012-2017 Cenote GmbH
  .
  Licensed under the Apache License, Version 2.0 (the "License");
  you may not use this file except in compliance with the License.
