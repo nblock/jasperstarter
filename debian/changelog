@@ -1,3 +1,11 @@
+jasperstarter (3.1.0-1) unstable; urgency=medium
+
+  [ Florian Preinstorfer ]
+  * New upstream version 3.1.0
+  * Update package for stretch
+
+ -- Florian Preinstorfer <nblock@archlinux.us>  Mon, 05 Jun 2017 10:18:50 +0200
+
 jasperstarter (3.0.0-2) unstable; urgency=medium
 
   [ Florian Preinstorfer ]
