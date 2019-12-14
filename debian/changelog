@@ -1,3 +1,14 @@
+jasperstarter (3.5.0-1) unstable; urgency=medium
+
+  * [81bb45b] New upstream version 3.5.0
+  * [723a761] Update copyright
+  * [cfc7a7b] Bump dh-compat level to 11
+  * [6db27ed] Increase standards-version to 4.3.0
+  * [8225e6d] Fix priority-extra-is-replaced-by-priority-optional
+  * [94b9004] Depend on openjdk-11-jre-headless
+
+ -- Florian Preinstorfer <nblock@archlinux.us>  Sat, 14 Dec 2019 11:56:55 +0100
+
 jasperstarter (3.1.0-1) unstable; urgency=medium
 
   [ Florian Preinstorfer ]
