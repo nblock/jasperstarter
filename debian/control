@@ -1,6 +1,6 @@
 Source: jasperstarter
 Section: java
-Priority: extra
+Priority: optional
 Maintainer: Florian Preinstorfer <nblock@archlinux.us>
 Build-Depends: debhelper (>= 11),
 Standards-Version: 4.3.0
