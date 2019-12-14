@@ -3,7 +3,7 @@ Section: java
 Priority: extra
 Maintainer: Florian Preinstorfer <nblock@archlinux.us>
 Build-Depends: debhelper (>= 11),
-Standards-Version: 3.9.8
+Standards-Version: 4.3.0
 Homepage: http://jasperstarter.sourceforge.net/
 Vcs-Browser: https://github.com/nblock/jasperstarter
 Vcs-Git: git://github.com/nblock/jasperstarter.git
