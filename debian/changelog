@@ -1,3 +1,10 @@
+jasperstarter (3.6.0~jas98-1) unstable; urgency=medium
+
+  * [4dfbd7f] New upstream version 3.5.0
+  * [f17e54e] New upstream version 3.6.0~jas98
+
+ -- Florian Preinstorfer <nblock@archlinux.us>  Fri, 27 Dec 2019 10:08:10 +0100
+
 jasperstarter (3.5.0-1) unstable; urgency=medium
 
   * [81bb45b] New upstream version 3.5.0
